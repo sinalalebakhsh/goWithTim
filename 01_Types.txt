@@ -1,0 +1,19 @@
+Golang Types
+
+Numbers
+1- Integers
+
+1-1 Unsigned Integers (no negatives)
+    uint8 / byte (0-255)
+    uint16 (0-65535)
+    uint32 (0-4294967295)
+    uint64 (0-18446744073709551615)
+
+1-2 Signed Integers
+    int8 (-128 to 127)
+    int16 (-32768 to 32767)
+    int32 / rune (-2147483648 to 2147483647)
+    int64 (-9223372036854775808 to 9223372036854775807)
+    
+
+
