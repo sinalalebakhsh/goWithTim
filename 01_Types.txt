@@ -14,6 +14,16 @@ Numbers
     int16 (-32768 to 32767)
     int32 / rune (-2147483648 to 2147483647)
     int64 (-9223372036854775808 to 9223372036854775807)
-    
 
+
+3 Machine Dependent Types
+    uint (32 or 64 bits)
+    int (same size as uint)
+    uintptr (an unsigned integer to store the uninterpreted bits of a pointer value)
+
+
+2- Floating Point Numbers
+
+2-1 float32 (IEEE-754 32-bit floating-point numbers)
+2-2 float64 (IEEE-754 64-bit floating-point numbers)
 
