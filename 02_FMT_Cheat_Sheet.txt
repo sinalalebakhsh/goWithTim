@@ -31,3 +31,10 @@ Width & Precision
 %9.f    (width 9, precision 0)
 
 
+Padding
+%09d (pads digit to length 9 with preceeding 0's)
+%-4d (pads with spaces (width 4, left justified))
+
+Methods
+Sprintf() format without printing
+Printf()  format with printing
