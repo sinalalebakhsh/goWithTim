@@ -9,5 +9,20 @@ Boolean
 %t (true or false)
 
 Integer
-%b (base 2)
+%b (base 2) Binary
+%o (base 8) Octal
+%d (base 10) Decimal
+%x (base 16) Hexadecimal
+
+Floating Points
+%e (scientific notation)
+%f OR %F (decimal no exponent)
+%g (for large exponents)
+
+Strings
+%s (default)
+%q (double quoted string)
+
+Width & Precision
+
 
