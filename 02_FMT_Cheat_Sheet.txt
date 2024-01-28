@@ -38,3 +38,7 @@ Padding
 Methods
 Sprintf() format without printing
 Printf()  format with printing
+
+\n is new line
+\t is a Tab space
+
