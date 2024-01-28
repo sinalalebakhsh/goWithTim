@@ -1,0 +1,13 @@
+FMT Cheat Sheet
+
+General
+%v (value in default format)
+%T (type)
+%% (Literal %)
+
+Boolean
+%t (true or false)
+
+Integer
+%b (base 2)
+
